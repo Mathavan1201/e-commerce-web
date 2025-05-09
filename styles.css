@@ -702,7 +702,10 @@ body {
        height: 420px ;
     }
     .content{
-        font-size: x-large;
+        width: 490px;
+        font-size: 2rem;
+        font-weight: 600;
+        
        
         margin-left: 5px;
     }
