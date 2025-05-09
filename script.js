@@ -141,6 +141,9 @@ window.onload = function () {
 
 
 
+
+
+
     
 /*
 var allProducts = document.querySelector(".header_456"); // Select the All Products section
