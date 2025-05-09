@@ -15,7 +15,8 @@ head{
 }
 
 body {
-    overflow-x: hidden; /* Prevent sideways scroll */
+    overflow: hidden;
+    overflow-y: auto; /* Prevent sideways scroll */
   }
   
 
@@ -701,11 +702,12 @@ body {
        height: 420px ;
     }
     .content{
+        font-size: x-large;
        
-        margin-left: 10px;
+        margin-left: 5px;
     }
     .sub_content{
-        margin-left:10px;
+        margin-left:5px;
     }
     .group_button_top{
         margin-left:  20px ;
