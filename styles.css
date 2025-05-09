@@ -667,6 +667,10 @@ body {
 
 
 /*media query */
+
+
+
+
 @media  screen and (max-width:480px) {
     .menu-bar{
         display: block;
