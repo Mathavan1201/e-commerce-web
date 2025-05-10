@@ -671,6 +671,7 @@ body {
 
 
 
+
 @media  screen and (max-width:480px) {
     .menu-bar{
         display: block;
@@ -910,6 +911,29 @@ body {
     .group_button_top{
         margin-left:20px ;
     }
+}
+@media  screen and (max-width:420px) {
+    .content{
+        position: relative;
+        width: 400px;
+        font-size: 2rem;
+        font-weight: 600;
+        
+       
+        margin-left: 5px;
+
+    }
+    .sub_content{
+        position: relative;
+        width: 410px;
+        font-size: 1rem;
+        font-weight: 100;
+        margin-left: 5px;
+
+    }
+
+
+
 }
 
 
