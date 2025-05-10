@@ -931,8 +931,25 @@ body {
         margin-left: 5px;
 
     }
+   
+}
+
+    
 
 
+
+
+@media (max-width: 380px) {
+    .content{
+        position: relative;
+        width: 350px;
+        font-size: 2rem;
+        font-weight: 600;
+        
+       
+        margin-left: 5px;
+
+    }
 
 }
 
