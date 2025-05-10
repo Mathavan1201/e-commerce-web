@@ -950,6 +950,24 @@ body {
         margin-left: 5px;
 
     }
+    .sub_content{
+        position: relative;
+        width: 390px;
+        font-size: 1rem;
+        font-weight: 100;
+        margin-left: 5px;
+
+    }
+    #accordionExample {
+        position: relative;
+        width: 200px;
+        margin-left: 5px;
+
+
+       
+        
+        background-color: blue;
+    }
 
 }
 
